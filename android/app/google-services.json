@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28637152645",
+    "project_id": "poster-social-media",
+    "storage_bucket": "poster-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28637152645:android:d74e37bb12e9a5acc870ec",
+        "android_client_info": {
+          "package_name": "com.justariel.poster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Njsusq3KvoOxUgO8pe2pJ3oO9flmyn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
