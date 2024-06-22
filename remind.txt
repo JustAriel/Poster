@@ -1,0 +1,5 @@
+-- fix the app:
+  npx -y expo-doctor
+
+-- build the app:
+  eas build -p android

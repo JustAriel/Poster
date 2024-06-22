@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "poster",
+    "slug": "poster",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/logoapp.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/logoapp.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./images/logoapp.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "CAMERA_ROLL",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.justariel.poster"
+    },
+    "web": {
+      "favicon": "./images/logoapp.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "56ad9850-4f7e-40c8-aff7-42957dba0b46"
+      }
+    }
+  }
+}
